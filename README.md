@@ -39,7 +39,7 @@ This repository contains the completed **Frontend Task** for the second round of
 
 
 - **Mobile Responsiveness**: The site adapts seamlessly to various screen sizes, ensuring a great user experience on both desktop and mobile devices.
-- **Frontend Framework**: Developed using [Insert Framework Name Here] for efficient and scalable code.
+- **Frontend Framework**: Developed using React.js for efficient and scalable code.
 - **Clean UI**: Closely follows the provided reference images for a polished user interface.
 
 <a id="Folder-Structure"></a>
